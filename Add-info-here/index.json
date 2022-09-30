@@ -697,5 +697,24 @@
         "speed": "4g",
         "connectivity": "c"
     }
+
+ {
+        "id": "38",
+        "company name": "VIVO",
+        "model number": "Y21e",
+        "ram": "12 gb",
+        "storage": "256 gb",
+        "color": "Dark pearl",
+        "number of speakers": "2",
+       
+        ],
+        "rear camera": "32 mp",
+
+        "launch Date":["24/01/2021"],
+        "back camera": "64 mp",
+
+        "speed": "5g",
+        "connectivity": "c"
+    }
 ]
 
